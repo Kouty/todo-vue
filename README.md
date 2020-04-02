@@ -1,4 +1,5 @@
-# todo-mvc
+# todo-vue
+Very simple vue todo app
 
 ## Project setup
 ```
@@ -22,3 +23,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
